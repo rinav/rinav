@@ -14,6 +14,8 @@ When I am not developing apps I like to read on Kindle or take a ride on my bike
 
 If you want to discuss anything or have any questions, please reach out to me on [Twitter](https://twitter.com/_rinav), I am always happy to discuss things!
 
+Also checkout my personal website [rinav.dev](https://rinav.dev/) where I share my experiences and random thoughts.
+
 
 **Your entire past is over with the sunrise.\
 Your entire future begins today.**
