@@ -34,11 +34,12 @@ But the fire really started with the announcement of **Android Studio**. I despi
 ---
 
 ### ⚡ Outside of Code
-When I'm not fighting Gradle build times, you can find me:
-* **Reader:** Always have my Kindle nearby.
-* **Rider:** Motorcycling is my meditation.
-* **Linux Enthusiast:** I still love exploring the OS that powers it all.
-
+When I'm not fighting Gradle build times, you can find me:When I'm not fighting Gradle build times, you can find me:
+* 🏍️ **Riding:** Motorcycling is my meditation on wheels.
+* 🎮 **Gaming:** I unwind and blow off steam on my **PS5**.
+* 🧘‍♂️ **Finding Peace:** For mental clarity, I visit the temple or spend time in quiet spiritual reflection.
+* 📚 **Reading:** Always have my Kindle nearby or something to Read.
+* 🐧 **Linux:** I still love exploring the OS that powers it all.
 ---
 
 ### 📫 Let's Connect
