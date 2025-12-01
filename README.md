@@ -1,22 +1,52 @@
-Hi, I'm Rinav Gangar!
+# Hi there, I'm Rinav Gangar! 👋
 
-I am leading a team of 8 talented developers at [Agrahyah Technologies Pvt Ltd](https://agrahyah.com) where I am leading development of [aawaz app](https://play.google.com/store/apps/details?id=com.aawaz). Apart from android and Kotlin I love exploring Linux.
+### 📱 Senior Android Engineer | 14+ Years Experience
+**Remote Native | Startup to Enterprise Scale**
 
-With over 9+ years of enterprise in software and mobile development working with a broad range of industries including Audio, News Media, Banking & Mutual Funds and IOT.
+I've been building on Android since the days of Froyo. Over the last **14 years**, I've navigated the chaotic early stages of startups and engineered robust solutions for massive **US-based e-commerce organizations**. 
 
-My curiosity for android os and Java made me root my first android phone; Samsung Galaxy Note 1 - GT7000. It was massive in size with a magical pen. Rooting and flashing custom ROM was the magical moment when I decided to get into android development.
+Currently, I am **open to new opportunities** (Remote/Hybrid) where I can bring stability, scalability, and clean code to your mobile team.
 
-But what really pushed me into android was the announcement of Android Studio on IntelliJ as I hated eclipse to it's core. I have used every release of android studio, all the canary's and betas.
+---
 
-With more than **six** years of Android development experience, I have learned valuable lessons on software and product development.
+### 🛠 Tech Stack & Arsenal
+* **Languages:** Kotlin (Primary), Java (Legacy expert)
+* **UI:** Jetpack Compose, XML
+* **Architecture:** Clean Architecture, MVVM, MVI, Modularization
+* **Async:** Coroutines, Flow, RxJava
+* **DI & Net:** Hilt, Dagger 2, Koin, Retrofit
+* **Tools:** Gradle, CI/CD (Azure DevOps), Firebase, JUnit
 
-In a previous life I used to write code for server-side enterprise Java applications.
+---
 
-When I am not developing apps I like to read on Kindle or take a ride on my bike.
+### 📖 The Origin Story, why Android?
+My curiosity for Linux and Java made me root my first Android phone, the **Samsung Galaxy Note 1**. That massive device with the magical pen changed everything for me. Rooting and flashing custom ROMs was the spark.
 
-If you want to discuss anything or have any questions, please reach out to me on [Twitter](https://twitter.com/_rinav), I am always happy to discuss things!
+But the fire really started with the announcement of **Android Studio**. I despised Eclipse. When IntelliJ/Android Studio arrived, I dove all in. Since then, I've used every release, from the earliest Canaries to the latest Stable builds.
 
-Also checkout my personal website [rinav.dev](https://rinav.dev/) where I share my experiences and random thoughts.
+---
+
+### 💼 What I Bring to the Table
+* **Scale:** Experience handling apps with millions of active users.
+* **Remote Fluency:** Years of experience working asynchronously with US teams.
+* **Leadership:** Mentoring juniors, and making architectural decisions.
+
+---
+
+### ⚡ Outside of Code
+When I'm not fighting Gradle build times, you can find me:
+* **Reader:** Always have my Kindle nearby.
+* **Rider:** Motorcycling is my meditation.
+* **Linux Enthusiast:** I still love exploring the OS that powers it all.
+
+---
+
+### 📫 Let's Connect
+I am currently available for interviews. If you are looking for a dev who has "seen it all" and loves solving complex problems, let's chat.
+
+[LinkedIn Profile](https://www.linkedin.com/in/rinavgangar/) • [StackOverflow](https://stackoverflow.com/users/1336154/rinav) • [Email Me](mailto:rinav.g@outlook.com)
+
+---
 
 **Your entire past is over with the sunrise.\
 Your entire future begins today.**
